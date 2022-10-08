@@ -1,2 +1,2 @@
 # hycom-unleashed
-Rotary spectral analyses of HYCOM velocity 
+Working with HYCOM
